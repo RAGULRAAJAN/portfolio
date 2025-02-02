@@ -15,7 +15,7 @@ function Projects() {
         />
         <ProjectCard
           src={portfolio}
-          link="https://ragulraajan.github.io/portfolio/"
+          link="https://ragulraajan.github.io/portfolio-1/"
           h3="Portfolio"
           p="HTML,CSS,JS Portfolio"
         />
